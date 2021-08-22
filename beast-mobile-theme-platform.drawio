@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-22T14:52:30.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="VW9oMjvpG4LnrZTcPpKR" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-22T14:53:39.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="w4s-_3XNgVCk5ma-JD6j" version="14.7.0" type="github">
   <diagram id="jPGTjq4C7aeMrTbWPzkC" name="Page-1">
     <mxGraphModel dx="2406" dy="939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-j3xsVtCKZbW_aCNZZ6a-1" value="产品同学" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="lR92ITVpg_u_R1GHCt2Q-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-j3xsVtCKZbW_aCNZZ6a-1" target="-j3xsVtCKZbW_aCNZZ6a-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-j3xsVtCKZbW_aCNZZ6a-1" value="设计同学" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-748" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-j3xsVtCKZbW_aCNZZ6a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-j3xsVtCKZbW_aCNZZ6a-3" target="-j3xsVtCKZbW_aCNZZ6a-10" edge="1">
@@ -48,7 +51,7 @@
             <mxPoint x="13" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-j3xsVtCKZbW_aCNZZ6a-22" value="产品同学" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="-j3xsVtCKZbW_aCNZZ6a-22" value="设计同学" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-748" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-j3xsVtCKZbW_aCNZZ6a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-j3xsVtCKZbW_aCNZZ6a-25" target="-j3xsVtCKZbW_aCNZZ6a-28" edge="1">
@@ -86,7 +89,7 @@
             <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-j3xsVtCKZbW_aCNZZ6a-34" value="产品同学" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="-j3xsVtCKZbW_aCNZZ6a-34" value="设计同学" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-748" y="420" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-j3xsVtCKZbW_aCNZZ6a-40" value="组件研发同学" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
