@@ -43,13 +43,13 @@
         <mxCell id="Hlovni9iBHvbX8-T9_-t-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-17" target="Hlovni9iBHvbX8-T9_-t-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hlovni9iBHvbX8-T9_-t-17" value="&lt;font style=&quot;font-size: 13px&quot;&gt;首屏访问阶段，&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;访问速度快&amp;nbsp;&lt;/font&gt;&lt;span&gt;������&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-17" value="&lt;font style=&quot;font-size: 13px&quot;&gt;首屏访问阶段，&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;访问速度快&amp;nbsp;&lt;/font&gt;&lt;span&gt;������&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hlovni9iBHvbX8-T9_-t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-20" target="Hlovni9iBHvbX8-T9_-t-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hlovni9iBHvbX8-T9_-t-20" value="&lt;font style=&quot;font-size: 13px&quot;&gt;衔接阶段，&lt;br&gt;执行 JavaScript 逻辑后页面存在明显抖动 ������&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-20" value="&lt;font style=&quot;font-size: 13px&quot;&gt;衔接阶段，&lt;br&gt;执行 JavaScript 逻辑后页面存在明显抖动 ������&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hlovni9iBHvbX8-T9_-t-21" value="&lt;font style=&quot;font-size: 13px&quot;&gt;可交互阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
