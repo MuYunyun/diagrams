@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T00:14:42.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.7" etag="Vi54vUUSaYgNNQhxU-l1" type="github"><diagram id="ICQrL_qD0Jko4IXTJyPj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-17T00:43:36.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="csKZY3T0wjMqElYlSe8a" version="16.2.7" type="github">
+  <diagram id="ICQrL_qD0Jko4IXTJyPj" name="Page-1">
+    <mxGraphModel dx="1051" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-2" target="Hlovni9iBHvbX8-T9_-t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;读取配置，&lt;br&gt;获取需要预渲染的页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="81" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-4" target="Hlovni9iBHvbX8-T9_-t-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-4" value="&lt;font style=&quot;font-size: 13px&quot;&gt;模拟访问页面，&lt;br&gt;浏览器环境打开页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="81" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-6" target="Hlovni9iBHvbX8-T9_-t-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-6" value="&lt;font style=&quot;font-size: 13px&quot;&gt;页面脚本触发渲染时机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="81" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-9" target="Hlovni9iBHvbX8-T9_-t-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-9" value="&lt;font style=&quot;font-size: 13px&quot;&gt;生成 HTML 文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="191" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-11" target="Hlovni9iBHvbX8-T9_-t-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-11" value="&lt;font style=&quot;font-size: 13px&quot;&gt;获取当前 DOM 结构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="191" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-12" target="Hlovni9iBHvbX8-T9_-t-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-12" value="&lt;font style=&quot;font-size: 13px&quot;&gt;渲染出当前页内容&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="191" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-17" target="Hlovni9iBHvbX8-T9_-t-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-17" value="&lt;font style=&quot;font-size: 13px&quot;&gt;首屏访问阶段，&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;访问速度快&amp;nbsp;&lt;/font&gt;&lt;span&gt;������&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeColor=#66B2FF;" edge="1" parent="1" source="Hlovni9iBHvbX8-T9_-t-20" target="Hlovni9iBHvbX8-T9_-t-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-20" value="&lt;font style=&quot;font-size: 13px&quot;&gt;衔接阶段，&lt;br&gt;执行 JavaScript 逻辑后页面存在明显抖动 ������&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hlovni9iBHvbX8-T9_-t-21" value="&lt;font style=&quot;font-size: 13px&quot;&gt;可交互阶段&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
